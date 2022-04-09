@@ -1,7 +1,7 @@
 # Projeto-gitHub-pequenos
 
-um projeto com três classes</b>
+um projeto com três classes<br/>
 
-um calcula</b>
-um imprime Olá mundo </b>
-um calcula números flutuantes</b>
+um calcula<br/>
+um imprime Olá mundo <br/>
+um calcula números flutuantes<br/>
